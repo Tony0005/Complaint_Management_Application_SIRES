@@ -1,13 +1,12 @@
 # Complaint_Management_Application_SIRES
 
 ## Descripción
-Este es un proyecto que muestra cómo utilizar React para crear una aplicación de gestión de tareas. Utiliza una API desarrollada en Node.js y Express para manejar el backend.
+Esta es una aplicación web de gestión de quejas y sugerencias para la Universidad de Camagüey.
 
 ## Tecnologías
 - React
-- Node.js
-- Express
-- MongoDB
+- Django
+- PostgresSQL
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/tu-usuario/mi-app-react.git`
