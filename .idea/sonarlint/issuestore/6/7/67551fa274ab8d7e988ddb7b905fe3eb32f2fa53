@@ -1,0 +1,6 @@
+
+Ÿpython:S1192”"TDefine a constant instead of duplicating this literal 'Queja no encontrada' 3 times.(ÖÓ³²øÿÿÿÿ8ˆî§ø•2J$dffc649c-b45e-42fd-be4a-4bdaeac2fcf2
+²python:S101Á"mRename class "Miembro_AreaViewSet" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(äüÖš8‚ñ¾—•2J$a8008009-0a9f-4277-8828-17bdd2c36a7c
+¹python:S101Å"oRename class "User_CommisionViewSet" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ñ«¬ùÿÿÿÿ8‚ñ¾—•2J$04cd6fcc-f7e4-4aa3-86db-40b3758e88b6
+€python:S1481û"5Replace the unused local variable "created" with "_".(ÑË‚şÿÿÿÿ8„ñ¾—•2J$72a5c6d0-4e06-40d1-8f58-5e2a514fa99b
+€python:S1481‹"5Replace the unused local variable "created" with "_".(ÑË‚şÿÿÿÿ8„ñ¾—•2J$96e1e786-222d-4671-874a-b36d839e62a3
